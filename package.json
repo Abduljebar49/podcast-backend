@@ -1,0 +1,23 @@
+{
+  "name": "amharic-quran-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Abduljebar@bitbucket.org/Abduljebar/amharic-quran-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Abduljebar/amharic-quran-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security"
+  }
+}
